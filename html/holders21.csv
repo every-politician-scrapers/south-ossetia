@@ -1,4 +1,10 @@
 position,person,personID,start,end
+President,Lyudvig Chibirov,Q558773,1996-11-27,2001-12-18
+President,Eduard Kokoity,Q151810,2001-12-18,2011-12-10
+President,Vadim Brovtsev,Q162646,2011-12-11,2012-04-19
+President,Leonid Tibilov,Q2085634,2012-04-19,2017-04-19
+President,Anatoly Bibilov,Q3545676,2017-04-21,2022-05-24
+President,Alan Gagloyev,Q29319183,2022-05-24,
 Prime Minister,Merab Chigoev,Q3072481,1998-08,2001-06
 Prime Minister,Dmitry Sanakoyev,Q1232523,2001-06-14,2001-12
 Prime Minister,Gerasim Khugayev,Q4502062,2001-12-19,2003-08-31
@@ -11,10 +17,9 @@ Prime Minister,Rostislav Khugayev,Q2617454,2012-05-15,2014-01-20
 Prime Minister,Domenty Kulumbegov,Q15727801,2014-01-20,2017-05-16
 Prime Minister,Erik Pukhayev,Q44531929,2017-05-16,2020-08-29
 Prime Minister,Gennady Bekoyev,Q105674235,2020-08-29,
-President,Lyudvig Chibirov,Q558773,1996-11-27,2001-12-18
-President,Eduard Kokoity,Q151810,2001-12-18,2011-12-10
-President,Vadim Brovtsev,Q162646,2011-12-11,2012-04-19
-President,Leonid Tibilov,Q2085634,2012-04-19,2017-04-19
-President,Anatoly Bibilov,Q3545676,2017-04-21,2022-05-24
-President,Alan Gagloyev,Q29319183,2022-05-24,
+Deputy Prime Minister,Erik Pukhayev,Q44531929,2014,2017
+Minister of Defence,Ibrahim Gazseev,Q31803839,2016-09-16,2022-02-25
+Minister of Defence,Vladimir Pukhaev,Q113502560,2022-04-18,2022-08-12
 Minister of Foreign Affairs,Dmitry Medoyev,Q4287911,2017,
+Speaker of the Parliament,Anatoly Bibilov,Q3545676,2014-06-24,2017-04-21
+ambassador to the Russian Federation,Dmitry Medoyev,Q4287911,2009-01-12,2015-03-02
