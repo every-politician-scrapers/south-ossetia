@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "Nykhaz"
+      ],
+      "stated_as": "Chairman of Nykhaz"
+    },
+    "P580": "2020-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Alan Alborov"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of South Ossetia"
+      ],
+      "stated_as": "President of South Ossetia"
+    },
+    "P580": "2022-05-24",
+    "P1365": {
+      "links": [
+        "Anatoly Bibilov"
+      ],
+      "stated_as": "Anatoly Bibilov"
+    }
+  }
+]
