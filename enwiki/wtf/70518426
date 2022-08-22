@@ -449,6 +449,52 @@
               "text": "On May 30th 2022, he suspended the referendum called by his predecessor Bibilov until consultations with Russia are complete."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "While still campaigning, Gagloev visited the Akhalgori Municipality, which has a substantial Georgian population, and urged support for allowing residents to travel to Georgia more freely.his would previously not be possible without medical documentation, and was further complicated by the COVID-19 pandemic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Akhalgori Municipality"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic"
+                }
+              ]
+            },
+            {
+              "text": "After assuming office, Gagloev received criticism from Russian news anchor Sergey Karnaukhov for dismissing the referendum to join Russia as well as supporting easier travel to Georgia, accusing him of being an American and Georgian asset."
+            },
+            {
+              "text": "The governments of both Georgia and South Ossetia denied these claims."
+            },
+            {
+              "text": "Beginning in August 2022, South Ossetia announced it would open checkpoints with Georgia from the 20th to the 30th of each month."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 12 August 2022, Gagloev dismissed defense minister Vladimir Pukhaev due to an incident on 23 July 2022, which involved masked servicemen of the defense minister assaulted civilians in various locations throughout the region."
+            },
+            {
+              "text": "Gagloev would assert his \"supreme authority\" over the armed forces after these events."
+            },
+            {
+              "text": "This is after his predecessor had allowed parts of the South Ossetian military to be under the authority of the Russian army, as well as a large desertion by South Ossetians in the 2022 Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -500,6 +546,64 @@
           "access-date": "30 May 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2022-06-06",
+          "title": "Controversy as Russian Anchor Claims Gagloev Serves Georgian, U.S. Interests",
+          "url": "https://civil.ge/archives/494556",
+          "access-date": "2022-08-21",
+          "website": "Civil.ge",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-08-18",
+          "title": "South Ossetia to partially reopen crossing points for Akhalgori Georgians",
+          "url": "https://oc-media.org/south-ossetia-to-partially-reopen-crossing-points-for-akhalgori-georgians/",
+          "access-date": "2022-08-21",
+          "website": "OC Media",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-08-12",
+          "title": "Tskhinvali Leader Dismisses Defense Head",
+          "url": "https://civil.ge/archives/504349",
+          "access-date": "2022-08-21",
+          "website": "Civil.ge",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "БОНВ[Ӕ]РНОН",
+          "url": "https://t.me/iron_bonvarnon/7648",
+          "access-date": "2022-08-21",
+          "website": "Telegram",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Putin approves army deal with Georgia’s South Ossetia",
+          "url": "https://www.aljazeera.com/news/2017/3/14/putin-approves-army-deal-with-georgias-south-ossetia",
+          "access-date": "2022-08-21",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ball",
+          "first": "Tom",
+          "title": "Deserting South Ossetian troops hitchhike home in ‘mass mutiny’",
+          "language": "en",
+          "url": "https://www.thetimes.co.uk/article/deserting-south-ossetian-troops-hitchhike-home-in-mass-mutiny-7vrncmxdc",
+          "access-date": "2022-08-21",
+          "issn": "0140-0460",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -511,11 +615,29 @@
           "sentences": [
             {
               "text": "Gagloev is married and has two children."
+            },
+            {
+              "text": "Gagloev's mother and father died during the Russo-Georgian War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Russo-Georgian War"
+                }
+              ]
             }
           ]
         }
       ],
       "references": [
+        {
+          "date": "2022-06-03",
+          "title": "🎥 Alan Gagloev is not an agent of Georgia and the USA - Tskhinvali",
+          "url": "https://pia.ge/en/news/politics/alan-gagloev-is-not-an-agent-of-georgia-and-the-usa-tskhinvali",
+          "access-date": "2022-08-21",
+          "website": "pia.ge",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "last": "Узел",
           "first": "Кавказский",
