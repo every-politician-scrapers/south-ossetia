@@ -232,7 +232,11 @@
                   "page": "South Ossetian State University"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He fought in the Russo-Georgian War in 2008.",
               "links": [
@@ -241,8 +245,22 @@
                   "page": "Russo-Georgian War"
                 }
               ]
+            },
+            {
+              "text": "During the war, Gagloev's family \"suffered heavy losses\"."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-06-03",
+          "title": "🎥 Alan Gagloev is not an agent of Georgia and the USA - Tskhinvali",
+          "url": "https://pia.ge/en/news/politics/alan-gagloev-is-not-an-agent-of-georgia-and-the-usa-tskhinvali",
+          "access-date": "2022-08-21",
+          "website": "pia.ge",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -424,6 +442,41 @@
               "text": "Following his election, he was sworn in as the new president on 24 May 2022."
             },
             {
+              "text": "Domestically, Gagloev said the main issue of his presidency would be taking steps to improve the economy."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://eurasianet.org/new-south-ossetian-leader-takes-office",
+          "title": "New South Ossetian leader takes office",
+          "author": "Joshua Kucera",
+          "date": "24 May 2022",
+          "website": "EurasiaNet",
+          "access-date": "26 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Joshua Kucera",
+          "date": "24 May 2022",
+          "title": "New South Ossetian leader takes office",
+          "url": "https://eurasianet.org/new-south-ossetian-leader-takes-office",
+          "access-date": "26 May 2022",
+          "website": "EurasiaNet",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Relations with Russia",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
               "text": "Gagloev was seen by observers as being less supportive of holding a referendum to join Russia, saying that Russia was \"still busy with other issues,\" in reference to the 2022 Russian invasion of Ukraine.",
               "links": [
                 {
@@ -443,13 +496,104 @@
               ]
             },
             {
-              "text": "Domestically, Gagloev said the main issue of his presidency would be taking steps to improve the economy."
-            },
-            {
               "text": "On May 30th 2022, he suspended the referendum called by his predecessor Bibilov until consultations with Russia are complete."
             }
           ]
         },
+        {
+          "sentences": [
+            {
+              "text": "On 12 August 2022, Gagloev dismissed defense minister Vladimir Pukhaev due to an incident on 23 July 2022, which involved masked servicemen of the defense minister assaulting civilians in various locations throughout the region."
+            },
+            {
+              "text": "Gagloev would assert his \"supreme authority\" over the armed forces after these events."
+            },
+            {
+              "text": "This is after his predecessor had allowed parts of the South Ossetian military to be under the authority of the Russian army, as well as a large desertion by South Ossetians in the 2022 Russian invasion of Ukraine.",
+              "links": [
+                {
+                  "text": "2022 Russian invasion of Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "11 April 2022",
+          "title": "Opposition leader wins first round in South Ossetia presidential poll",
+          "url": "https://oc-media.org/opposition-leader-wins-first-round-in-south-ossetia-presidential-poll/",
+          "access-date": "11 May 2022",
+          "website": "OC Media",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "9 April 2022",
+          "title": "Tskhinvali Leadership Hopeful Shows Cautious Stance on Annexation",
+          "url": "https://civil.ge/archives/484843",
+          "access-date": "11 May 2022",
+          "website": "Civil.ge",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Reuters",
+          "date": "30 May 2022",
+          "title": "Georgian breakaway territory suspends announced referendum on joining Russia - decree",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/europe/georgian-breakaway-territory-suspends-announced-referendum-joining-russia-decree-2022-05-30/",
+          "access-date": "30 May 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-08-12",
+          "title": "Tskhinvali Leader Dismisses Defense Head",
+          "url": "https://civil.ge/archives/504349",
+          "access-date": "2022-08-21",
+          "website": "Civil.ge",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://south-ossetia.info/alan-gagloev-nikomu-ne-pozvoleno-narushat-zakon/",
+          "lang": "ru",
+          "title": "Алан Гаглоев: «Никому не позволено нарушать закон»",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Putin approves army deal with Georgia’s South Ossetia",
+          "url": "https://www.aljazeera.com/news/2017/3/14/putin-approves-army-deal-with-georgias-south-ossetia",
+          "access-date": "2022-08-21",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ball",
+          "first": "Tom",
+          "title": "Deserting South Ossetian troops hitchhike home in ‘mass mutiny’",
+          "language": "en",
+          "url": "https://www.thetimes.co.uk/article/deserting-south-ossetian-troops-hitchhike-home-in-mass-mutiny-7vrncmxdc",
+          "access-date": "2022-08-21",
+          "issn": "0140-0460",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Relations with Georgia",
+      "depth": 1,
+      "paragraphs": [
         {
           "sentences": [
             {
@@ -480,78 +624,9 @@
               "text": "Beginning in August 2022, South Ossetia announced it would open checkpoints with Georgia from the 20th to the 30th of each month."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 12 August 2022, Gagloev dismissed defense minister Vladimir Pukhaev due to an incident on 23 July 2022, which involved masked servicemen of the defense minister assaulting civilians in various locations throughout the region."
-            },
-            {
-              "text": "Gagloev would assert his \"supreme authority\" over the armed forces after these events."
-            },
-            {
-              "text": "This is after his predecessor had allowed parts of the South Ossetian military to be under the authority of the Russian army, as well as a large desertion by South Ossetians in the 2022 Russian invasion of Ukraine.",
-              "links": [
-                {
-                  "text": "2022 Russian invasion of Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                }
-              ]
-            }
-          ]
         }
       ],
       "references": [
-        {
-          "url": "https://eurasianet.org/new-south-ossetian-leader-takes-office",
-          "title": "New South Ossetian leader takes office",
-          "author": "Joshua Kucera",
-          "date": "24 May 2022",
-          "website": "EurasiaNet",
-          "access-date": "26 May 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "11 April 2022",
-          "title": "Opposition leader wins first round in South Ossetia presidential poll",
-          "url": "https://oc-media.org/opposition-leader-wins-first-round-in-south-ossetia-presidential-poll/",
-          "access-date": "11 May 2022",
-          "website": "OC Media",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "9 April 2022",
-          "title": "Tskhinvali Leadership Hopeful Shows Cautious Stance on Annexation",
-          "url": "https://civil.ge/archives/484843",
-          "access-date": "11 May 2022",
-          "website": "Civil.ge",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Joshua Kucera",
-          "date": "24 May 2022",
-          "title": "New South Ossetian leader takes office",
-          "url": "https://eurasianet.org/new-south-ossetian-leader-takes-office",
-          "access-date": "26 May 2022",
-          "website": "EurasiaNet",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Reuters",
-          "date": "30 May 2022",
-          "title": "Georgian breakaway territory suspends announced referendum on joining Russia - decree",
-          "language": "en",
-          "work": "Reuters",
-          "url": "https://www.reuters.com/world/europe/georgian-breakaway-territory-suspends-announced-referendum-joining-russia-decree-2022-05-30/",
-          "access-date": "30 May 2022",
-          "template": "citation",
-          "type": "news"
-        },
         {
           "date": "2022-06-06",
           "title": "Controversy as Russian Anchor Claims Gagloev Serves Georgian, U.S. Interests",
@@ -571,44 +646,6 @@
           "language": "en-US",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "date": "2022-08-12",
-          "title": "Tskhinvali Leader Dismisses Defense Head",
-          "url": "https://civil.ge/archives/504349",
-          "access-date": "2022-08-21",
-          "website": "Civil.ge",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "БОНВ[Ӕ]РНОН",
-          "url": "https://t.me/iron_bonvarnon/7648",
-          "access-date": "2022-08-21",
-          "website": "Telegram",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Putin approves army deal with Georgia’s South Ossetia",
-          "url": "https://www.aljazeera.com/news/2017/3/14/putin-approves-army-deal-with-georgias-south-ossetia",
-          "access-date": "2022-08-21",
-          "website": "www.aljazeera.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Ball",
-          "first": "Tom",
-          "title": "Deserting South Ossetian troops hitchhike home in ‘mass mutiny’",
-          "language": "en",
-          "url": "https://www.thetimes.co.uk/article/deserting-south-ossetian-troops-hitchhike-home-in-mass-mutiny-7vrncmxdc",
-          "access-date": "2022-08-21",
-          "issn": "0140-0460",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -620,29 +657,11 @@
           "sentences": [
             {
               "text": "Gagloev is married and has two children."
-            },
-            {
-              "text": "Gagloev's mother and father died during the Russo-Georgian War.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Russo-Georgian War"
-                }
-              ]
             }
           ]
         }
       ],
       "references": [
-        {
-          "date": "2022-06-03",
-          "title": "🎥 Alan Gagloev is not an agent of Georgia and the USA - Tskhinvali",
-          "url": "https://pia.ge/en/news/politics/alan-gagloev-is-not-an-agent-of-georgia-and-the-usa-tskhinvali",
-          "access-date": "2022-08-21",
-          "website": "pia.ge",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "last": "Узел",
           "first": "Кавказский",
