@@ -200,6 +200,7 @@
           "url": "https://ria.ru/20220508/bibilov-1787567774.html",
           "access-date": "8 May 2022",
           "website": "РИА Новости",
+          "date": "8 May 2022",
           "language": "ru",
           "template": "citation",
           "type": "web"
@@ -255,7 +256,7 @@
       "references": [
         {
           "date": "2022-06-03",
-          "title": "🎥 Alan Gagloev is not an agent of Georgia and the USA - Tskhinvali",
+          "title": "🎥 Alan Gagloev is not an agent of Georgia and the USA – Tskhinvali",
           "url": "https://pia.ge/en/news/politics/alan-gagloev-is-not-an-agent-of-georgia-and-the-usa-tskhinvali",
           "access-date": "2022-08-21",
           "website": "pia.ge",
@@ -326,7 +327,7 @@
       ],
       "references": [
         {
-          "title": "On the New “President” of South Ossetia",
+          "title": "On the New \"President\" of South Ossetia",
           "url": "http://gtarchive.georgiatoday.ge/news/6316/On-the-New-%25E2%2580%259CPresident%25E2%2580%259D-of-South-Ossetia",
           "access-date": "1 June 2022",
           "template": "citation",
@@ -543,7 +544,7 @@
         {
           "last": "Reuters",
           "date": "30 May 2022",
-          "title": "Georgian breakaway territory suspends announced referendum on joining Russia - decree",
+          "title": "Georgian breakaway territory suspends announced referendum on joining Russia – decree",
           "language": "en",
           "work": "Reuters",
           "url": "https://www.reuters.com/world/europe/georgian-breakaway-territory-suspends-announced-referendum-joining-russia-decree-2022-05-30/",
@@ -569,7 +570,7 @@
           "type": "web"
         },
         {
-          "title": "Putin approves army deal with Georgia’s South Ossetia",
+          "title": "Putin approves army deal with Georgia's South Ossetia",
           "url": "https://www.aljazeera.com/news/2017/3/14/putin-approves-army-deal-with-georgias-south-ossetia",
           "access-date": "2022-08-21",
           "website": "www.aljazeera.com",
@@ -580,7 +581,8 @@
         {
           "last": "Ball",
           "first": "Tom",
-          "title": "Deserting South Ossetian troops hitchhike home in ‘mass mutiny’",
+          "title": "Deserting South Ossetian troops hitchhike home in 'mass mutiny'",
+          "newspaper": "The Times",
           "language": "en",
           "url": "https://www.thetimes.co.uk/article/deserting-south-ossetian-troops-hitchhike-home-in-mass-mutiny-7vrncmxdc",
           "access-date": "2022-08-21",
