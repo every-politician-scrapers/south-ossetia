@@ -1,7 +1,9 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q2327278,President of South Ossetia,Q23427,Q23427,,,1996-11-27,,,,President of South Ossetia
-Q2332585,Prime Minister of South Ossetia,Q23427,Q23427,Q113502578,,1991-11-28,,,,Prime Minister of South Ossetia
 Q113502578,Deputy Prime Minister of South Ossetia,Q23427,Q23427,,,,,,,
 Q113502553,Minister of Defence,,Q23427,,,,,,,
 Q19901425,Minister of Foreign Affairs,Q23427,Q23427,,,,,,,Minister of Foreign Affairs (South Ossetia)
+Q2327278,President of South Ossetia,Q23427,Q23427,,,1996-11-27,,,,President of South Ossetia
+Q2332585,Prime Minister of South Ossetia,Q23427,Q23427,Q113502578,,1991-11-28,,,,Prime Minister of South Ossetia
 Q6597970,Speaker of the Parliament of South Ossetia,,Q23427,,,,,,,List of speakers of the Parliament of South Ossetia
+Q113502599,ambassador of South Ossetia to the Russian Federation,,,,,,,,,
+Q62060547,member of the Parliament of South Ossetia,,Q23427,,,,,,,
