@@ -1,7 +1,18 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q113502578,Deputy Prime Minister of South Ossetia,Q23427,Q23427,,,,,,,
+Q114351277,Minister of Agriculture,Q23427,Q23427,,,,,,,
+Q114351280,"Minister of Civil Defence, Emergencies and Disaster Management",Q23427,Q23427,,,,,,,
+Q114351273,Minister of Construction,Q23427,Q23427,,,,,,,
+Q114351276,Minister of Culture,Q23427,Q23427,,,,,,,
 Q113502553,Minister of Defence,,Q23427,,,,,,,
+Q114351268,Minister of Economic Development,Q23427,Q23427,,,,,,,
+Q114351272,Minister of Education and Science,Q23427,Q23427,,,,,,,
+Q114351278,Minister of Finance,Q23427,Q23427,,,,,,,
 Q19901425,Minister of Foreign Affairs,Q23427,Q23427,,,,,,,Minister of Foreign Affairs (South Ossetia)
+Q114351282,Minister of Health,Q23427,Q23427,,,,,,,
+Q114351271,Minister of Internal Affairs,Q23427,Q23427,,,,,,,
+Q114351269,Minister of Justice,Q23427,Q23427,,,,,,,
+Q114351263,Minister of Press of South Ossetia,,Q23427,,,,,,,
 Q2327278,President of South Ossetia,Q23427,Q23427,,,1996-11-27,,,,President of South Ossetia
 Q2332585,Prime Minister of South Ossetia,Q23427,Q23427,Q113502578,,1991-11-28,,,,Prime Minister of South Ossetia
 Q6597970,Speaker of the Parliament of South Ossetia,,Q23427,,,,,,,List of speakers of the Parliament of South Ossetia
