@@ -291,7 +291,13 @@
               ]
             },
             {
-              "text": "After his loss, he announced the creation of his own political party, the Alan Union in September 2017."
+              "text": "After his loss, he announced the creation of his own political party, the Alan Union in September 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alan Union"
+                }
+              ]
             },
             {
               "text": "However, in May 2018, the South Ossetian Ministry of Justice refused to register the party."
@@ -299,6 +305,10 @@
             {
               "text": "In January 2019, the Alan Union and the other party \"New Ossetia\" merged with the party Nykhaz.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "New Ossetia"
+                },
                 {
                   "type": "internal",
                   "page": "Nykhaz"
