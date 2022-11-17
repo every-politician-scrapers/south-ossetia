@@ -1,0 +1,45 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q105674235,Gennady Bekoyev,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,true,true
+Q112670582,Aleksandr Pliyev,NormalRank,Q79863,Tskhinvali,true,true,true,false,true,false,false
+Q112670601,Garry Muldarov,NormalRank,Q79863,Tskhinvali,true,true,true,false,true,false,false
+Q112691270,Konstantin Dzhussoev,,,,,,false,,,,
+Q113502559,Viktor Fedorov,,,,,,false,,,,
+Q113502560,Vladimir Pukhaev,,,,,,false,,,,
+Q113502633,Inal Mamiev,,,,,,false,,,,
+Q114351143,Alan Alborov,,,,,,false,,,,
+Q114351204,Akhsar Dzhioev,,,,,,false,,,,
+Q114351301,Dzambolat Tadtayev,,,,,,false,,,,
+Q114351306,Oleg Gagloev,,,,,,false,,,,
+Q114351315,Valery Gazzaev,,,,,,false,,,,
+Q114351328,Ariana Dzhioeva,,,,,,false,,,,
+Q114351337,Eduard Dzagoev,,,,,,false,,,,
+Q114351341,Radmila Dzagoeva,,,,,,false,,,,
+Q114351351,Alan Margiev,,,,,,false,,,,
+Q114351361,Marat Pavlov,,,,,,false,,,,
+Q114351367,Fatima Tibilova,,,,,,false,,,,
+Q114351376,Azamat Chochiev,,,,,,false,,,,
+Q114351389,Alla Chochieva,,,,,,false,,,,
+Q1232523,Dmitry Sanakoyev,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q1351123,Yury Morozov,NormalRank,Q196489,Sterlitamak,true,true,true,false,false,false,true
+Q151810,Eduard Kokoity,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q15727801,Domenty Kulumbegov,NormalRank,Q1417170,Gori Municipality,true,true,true,false,false,false,true
+Q162646,Vadim Brovtsev,NormalRank,Q175802,Ozyorsk,true,true,true,false,false,false,true
+Q2085634,Leonid Tibilov,NormalRank,Q14916608,Q14916608,true,true,false,,,,
+Q2564765,Stanislav Kochiev,NormalRank,Q2608236,Kurta,true,true,false,,,,
+Q2617454,Rostislav Khugayev,NormalRank,Q4296304,Q4296304,true,true,true,false,false,false,true
+Q29319183,Alan Gagloyev,NormalRank,Q79863,Tskhinvali,true,true,false,,,,
+Q3072481,Merab Chigoev,NormalRank,Q14916744,Q14916744,true,true,false,,,,
+Q31803839,Ibrahim Gazseev,NormalRank,Q877642,South Ossetian Autonomous Oblast,true,true,true,false,false,true,true
+Q3545676,Anatoly Bibilov,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q3576296,Zurab Kokoyev,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q4134107,Znaur Gassiev,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q4287911,Dmitry Medoyev,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q4407406,Igor Sanakoyev,NormalRank,Q2344454,Aspindza,true,true,false,,,,
+Q44531929,Erik Pukhayev,NormalRank,Q1815665,Znaur District,true,true,false,,,,
+Q44531929,Erik Pukhayev,NormalRank,Q3649536,Q3649536,true,true,false,,,,
+Q4502062,Gerasim Khugayev,NormalRank,Q4507548,Q4507548,true,false,true,false,false,false,true
+Q47087945,Pyotr Gassiev,NormalRank,Q79863,Tskhinvali,true,true,false,,,,
+Q558773,Lyudvig Chibirov,NormalRank,Q79863,Tskhinvali,true,true,true,false,false,false,true
+Q659494,Boris Chochiev,NormalRank,Q12863803,Didkhevi,true,true,true,false,false,false,true
+Q724218,Aslanbek Bulatsev,NormalRank,Q4297813,Mikhaylovskoye,true,true,true,false,false,false,true
+Q85866853,Alan Tadtaev,NormalRank,Q877642,South Ossetian Autonomous Oblast,true,true,true,false,false,true,true
